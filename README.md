@@ -1,2 +1,2 @@
 # GravTracker
-Monitoring the progress of fermentation by continuous mass measurement.
+Monitoring the progress of fermentation with continuous mass measurement.
